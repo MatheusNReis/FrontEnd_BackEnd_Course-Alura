@@ -1,11 +1,5 @@
 /* Global Styles */
 
-#card-legenda {
-    position: fixed;
-    width: 210px;
-    right: 10px; top: 60px;
-    display: none;
-
 body {
   background-color: black;
   margin: 0;
